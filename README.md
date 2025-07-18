@@ -1,12 +1,48 @@
-# React + Vite
+# Portfolio Website - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1901" height="1002" alt="Screenshot 2025-07-18 172648" src="https://github.com/user-attachments/assets/79095794-7641-49a8-8657-3e0921ff9e8f" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1882" height="773" alt="Screenshot 2025-07-18 172659" src="https://github.com/user-attachments/assets/38c13da1-7708-4694-9487-ce9fee66b91d" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1919" height="842" alt="Screenshot 2025-07-18 172706" src="https://github.com/user-attachments/assets/bda4dc1d-2c29-41b0-bbd1-33124a07b760" />
+
+
+<img width="1841" height="817" alt="Screenshot 2025-07-18 172715" src="https://github.com/user-attachments/assets/d5ec01c4-1be5-4bd5-8a4a-4843d41c5d49" />
+
+
+
+
+A modern responsive portfolio website built with React, Vite, and CSS.
+
+## Features
+
+- Responsive design for all devices
+- Interactive resume section
+- Working contact form
+- Animated elements
+- Dark/light theme support
+- Social media integration
+
+## Technologies Used
+
+- React 18
+- Vite
+- Boxicons
+- Font Awesome
+- EmailJS
+- CSS3
+
+## Installation
+
+1. Clone the repository:
+   
+git clone https://github.com/fazi-cmd/PortfolioReact.git
+cd PortfolioReact
+Install dependencies:
+
+npm install
+Start development server:
+
+npm run dev
